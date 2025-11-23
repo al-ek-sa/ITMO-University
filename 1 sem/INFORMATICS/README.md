@@ -3,4 +3,4 @@
 ---
 ### Лектор: Балакшин Павел Валерьевич
 ### Практик: Балакшин Павел Валерьевич
-![screenshot of sample](../picture/i.jpg)
+![screenshot of sample](../../picture/photo_5334714613222209712_y.jpg)
