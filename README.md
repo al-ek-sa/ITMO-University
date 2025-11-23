@@ -8,5 +8,5 @@
 ### **!!!ВНИМЕНИЕ!!!** 
 ### Копирование работ может привести к негативным последствиям. Не рекомендуется использовать материалы из этого репозитория в качестве готовых решений.
 
-![screenshot of sample](ITMO_University_logo.png)
+![screenshot of sample](picture/ITMO_University_logo.png)
 
